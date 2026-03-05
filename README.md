@@ -8,6 +8,8 @@ SleepProject has provided you with an anonymized dataset of sleep and lifestyle 
 
 The dataset includes 13 columns covering sleep duration, quality, disorders, exercise, stress, diet, demographics, and other factors related to sleep health. 
 
+## Assignment
+
 Use the Data to answer the following questions
 
 - Which occupation has the lowest average sleep duration? Save this in a string variable called lowest_sleep_occ.
@@ -19,3 +21,9 @@ Use the Data to answer the following questions
 bmi_insomnia dictionary
 
 Please note the keys are case-sensitive, and should be formatted as shown in the example dictionary.
+
+
+Further reading
+- https://www.geeksforgeeks.org/data-analysis/eda-with-numpy-pandas-matplotlib-seaborn/
+- https://www.tilburgsciencehub.com/topics/visualization/data-visualization/graphs-charts/matplotlib-seaborn/
+
